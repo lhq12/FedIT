@@ -7,16 +7,18 @@ This is the official PyTorch implementation of ICML 2026 paper "[Powerful and Th
 ## Preparation
 
 1. Create conda environment:
-        ```shell
-        conda create -n fedit python=3.8
-		conda activate fedit
-        ```
+   
+```shell
+conda create -n fedit python=3.8
+conda activate fedit
+```
+
 2. Install dependencies:
-        ```shell
-        conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge
-        conda install scipy
-        conda install main::matplotlib
-        ```
+```shell
+conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge
+conda install scipy
+conda install main::matplotlib
+```
 
 ## Run the code
 
