@@ -1,5 +1,4 @@
-# ICML 2026: Powerful and Theoretically Guaranteed Independence Testing
-on Heterogeneous Federated Clients
+# ICML 2026: Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients
 
 ## Introduction
 
