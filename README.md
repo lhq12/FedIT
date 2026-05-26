@@ -22,7 +22,7 @@ conda install main::matplotlib
 
 ## Run the code
 
-All experiments involved in the paper have been included in demo.ipynb, allowing the results to be reproduced directly.
+Experiments on synthetic data involved in the paper have been included in demo.ipynb, allowing the results to be reproduced directly.
 
 ## Citation
 
